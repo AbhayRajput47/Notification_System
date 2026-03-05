@@ -171,6 +171,10 @@ Client
 → Strategies  
 
 * * *
+## 📐 UML Diagram
+The following UML class diagram illustrates the overall design of **Notification_System**:
+
+![QUICKBITE UML Diagram](UML.jpeg)
 
 📂 Project Structure
 ====================
